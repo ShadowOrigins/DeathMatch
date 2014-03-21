@@ -12,6 +12,7 @@
 		"item"		"sm_slap"
 		"item"		"sm_kick"
 		"item"		"sm_ban"
+                "item"          "sm_bandisconnected"
 		"item"		"sm_gag"
 		"item"		"sm_burn"		
 		"item"		"sm_beacon"
@@ -35,5 +36,16 @@
 		"item"		"sm_votekick"
 		"item"		"sm_voteban"
 	}
+
+    "sourcecomm_cmds" 
+	{ 
+        "item" "sourcecomm_gag" 
+        "item" "sourcecomm_mute" 
+        "item" "sourcecomm_silence" 
+        "item" "sourcecomm_ungag" 
+		"item" "sourcecomm_unmute" 
+        "item" "sourcecomm_unsilence" 
+        "item" "sourcecomm_list" 
+    }
 }
 
