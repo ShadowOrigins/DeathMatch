@@ -1,0 +1,337 @@
+﻿"Phrases"
+{	
+	"Deaths"
+	{
+		"en"		"Mortes"
+	}
+	"ResetMyRank"{
+		"en"		"{default}O teu rank foi reiniciado!"
+	}
+	"BombPickup"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) ganhou {3} ponto(s) por Apanhar a Bomba."
+	}
+	"BombDropped"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) perdeu {3} ponto(s) por Dropar a Bomba."
+	}
+	"MVP"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) ganhou {3} ponto(s) por ser o Jogador de Maior Valor."
+	}
+	"Kills"
+	{
+		"en"		"Assassinatos"
+	}
+	"LostSuicide"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) perdeu {3} ponto(s) por cometer Suicidio."
+	}
+	"LostTK"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s}"
+		"en"		"{lightgreen}{1}{default} ({2}) perdeu {3} ponto(s) por fazer Team Kill a {lightgreen}{4}"
+	}
+	"VIPStats"
+	{
+		"en"		"Estatísticas de VIP"
+	}
+	"VIPEscapes"
+	{
+		"en"		"Escapes sendo VIP"
+	}
+	"VIPsKilled"
+	{
+		"en"		"VIPs Assassinados"
+	}
+	"CT_VIPEscaped"
+	{
+		"#format"	"{1:d}"
+		"en"		"{lightgreen}Contra-Terroristas{default} ganharam {1} pontos for Escaping as VIP."
+	}
+	"VIPEscaped"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) got {3} points for Escaping as VIP."
+	}
+	"TR_VIPKilled"
+	{
+		"#format"	"{1:d}"
+		"en"		"{lightgreen}Terrorists{default} got {1} points for Killing the VIP."
+	}
+	"VIPKilled"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) got {3} points for Killing the VIP."
+	}
+	
+	"GotPointsBy"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s}"
+		"en"		"{lightgreen}{1}{default} ({2}) ganhou {3} ponto(s) por {4}."
+	}
+
+	"IsRankedAt"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:d},{5:d},{6:d},{7:.2f}"
+		"en"		"Jogador/a {1} está na posição {2}/{3} com {4} pontos, {5}  assassinatos, {6} mortes e um KDR {7}"
+	}
+	"Killing"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s},{5:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) ganhou {3} pontos por matar {lightgreen}{4} {default}({5})."
+	}
+	
+	"KillingKillerNotRanked"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s},{5:d},{6:d},{7:d}"
+		"en"		"{lightgreen}{1}{default} ({2})[{6}/{7}] ganhou {3} pontos por matar {lightgreen}{4} {default}({5})."
+	}
+	"KillingVictimNotRanked"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s},{5:d},{6:d},{7:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) ganhou {3} pontos por matar {lightgreen}{4} {default}({5})[{6}/{7}]."
+	}
+	"KillingBothNotRanked"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s},{5:d},{6:d},{7:d},{8:d},{9:d}"
+		"en"		"{lightgreen}{1}{default} ({2})[{6}/{7}] ganhou {3} pontos por matar {lightgreen}{4} {default}({5})[{8}/{9}]."
+	}
+	"Headshot"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) ganhou {3} ponto pelo Headshot."
+	}
+	"TR_Planting"
+	{
+		"#format"	"{1:d}"
+		"en"		"{lightgreen}Terroristas{default} ganharam {1} pontos por Plantar a Bomba"
+	}
+	
+	"Planting"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) ganhou {3} pontos por Plantar a Bomba."
+	}
+	"TR_Exploding"
+	{
+		"#format"	"{1:d}"
+		"en"		"{lightgreen}Terroristas{default} ganharam {1} pontos pela Explosão da Bomba."
+	}
+	
+	"Exploding"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) ganhou {3} pontos pela Explosão da Bomba."
+	}
+	"CT_Defusing"
+	{
+		"#format"	"{1:d}"
+		"en"		"{lightgreen}Contra-Terroristas{default} ganharam {1} pontos por Desarmar a Bomba."
+	}
+	
+	"Defusing"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) ganhou {3} pontos por Desarmar a Bomba."
+	}
+	
+	"CT_Hostage"
+	{
+		"#format"	"{1:d}"
+		"en"		"{lightgreen}Contra-Terroristas{default} got {1} points for Rescuing the Hostage."
+	}
+	
+	"Hostage"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) got {3} points for Rescuing the Hostage."
+	}
+	
+	"CT_Round"
+	{
+		"#format"	"{1:d}"
+		"en"		"{lightgreen}Contra-Terroristas{default} ganharam {1} pontos por Ganhar a Ronda."
+	}
+	
+	"TR_Round"
+	{
+		"#format"	"{1:d}"
+		"en"		"{lightgreen}Terroristas{default} ganharam {1} pontos por Ganhar a Ronda."
+	}
+	
+	
+	"Showing"
+	{
+		"#format"	"{1:d},{2:d},{3:d}"
+		"en"		"Mostrando de {1} até {2} de {3}\n"
+	}
+	
+	"Next"
+	{
+		"en"		"Próximo"
+	}
+	
+	"Back"
+	{
+		"en"		"Anterior"
+	}
+	
+	"KnifeKills"
+	{
+		"en"		"Assassinatos de Faca"
+	}
+	
+	"NotRanked"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Ainda não estás no rank. Precisas ainda de {2} assassinatos para entrares norank. Assassinatos atuais: {1}."
+	}
+	
+	"Position"
+	{
+		"en"		"Posição"
+	}
+	
+	"Points"
+	{
+		"en"		"Pontos"
+	}
+	
+	"BasicStats"
+	{
+		"en"		"Estatísticas básicas"
+	}
+	
+	"KillsDeaths"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Assassinatos: {1}   Mortes: {2}"
+	}
+	
+	"Suicides"
+	{
+		"en"		"Suicídios"
+	}
+	
+	"RoundStats"
+	{
+		"en"		"Estatísticas de Ronda"
+	}
+	
+	"TRWins"
+	{
+		"en"		"Vitórias a T"
+	}
+	
+	"CTWins"
+	{
+		"en"		"Vitórias a CT"
+	}
+	
+	"HitStats"
+	{
+		"en"		"Estatísticas de Acertos"
+	}
+	
+	"Shots"
+	{
+		"en"		"Tiros"
+	}
+	
+	"Hits"
+	{
+		"en"		"Acertos"
+	}
+	
+	"Accuracy"
+	{
+		"en"		"Precisão"
+	}
+	
+	"BombHostagesStats"
+	{
+		"en"		"Estatísticas de Bomba/Reféns"
+	}
+	
+	"PlantedBombs"
+	{
+		"en"		"Bombas Plantadas"
+	}
+	
+	"DefusedBombs"
+	{
+		"en"		"Bombas Desarmadas"
+	}
+	
+	"ExplodedBombs"
+	{
+		"en"		"Bombas Explodidas"
+	}
+	
+	"RescuedHostages"
+	{
+		"en"		"Reféns Salvos"
+	}
+	
+	"OtherStats"
+	{
+		"en"		"Estatísticas Diversas"
+	}
+	
+	"TimeConnected"
+	{
+		"#format"	"{1:d},{2:d},{3:d}"
+		"en"		"Tempo conectado: {1} horas, {2} minutos, {3} segundos"
+	}
+	
+	"Head"
+	{
+		"en"		"Cabeça"
+	}
+	
+	"Chest"
+	{
+		"en"		"Peito"
+	}
+	
+	"Stomach"
+	{
+		"en"		"Estômago"
+	}
+	
+	"LeftArm"
+	{
+		"en"		"Braço Esquerdo"
+	}
+	
+	"LeftLeg"
+	{
+		"en"		"Perna Esquerda"
+	}
+	
+	"RightArm"
+	{
+		"en"		"Braço Direito"
+	}
+	
+	"RightLeg"
+	{
+		"en"		"Perna Direita"
+	}
+	
+	"Next9Players"
+	{
+		"en"		"Próximos 9 jogadores"
+	}
+	
+	"WeaponsStats"
+	{
+		"en"		"Estatísticas de Arma"
+	}
+}
+ 
