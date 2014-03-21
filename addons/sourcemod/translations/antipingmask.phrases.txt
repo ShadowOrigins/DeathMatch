@@ -1,0 +1,22 @@
+﻿"Phrases"
+{
+	"Kicked By Rate"
+	{
+		"en"			"Foste automaticamente kickado por usares Fake Ping."
+	}
+
+	"Player Kicked By Rate"
+	{
+		"en" 			"foi kickado por usar Fake Ping."
+	}
+	
+	"Banned For Ping Mask"
+	{
+		"en"			"Foste automaticamente banido por usares Fake Ping."
+	}
+	
+	"Player Banned By Rate"
+	{
+		"en"			"foi banido por usar Fake Ping."
+	}
+}
