@@ -1,0 +1,120 @@
+// Advertisements 0.5
+// by Tsunami
+// 
+// Types
+// -----
+// C: Center message
+// H: Hint message
+// M: Menu message
+// S: Say message
+//    - Colors:  {DEFAULT}, {TEAM}, {GREEN}, {LIGHTGREEN}
+//    - Example: {GREEN}Current {LIGHTGREEN}Map: {DEFAULT}{CURRENTMAP}
+// T: Top message
+//    - Colors:  {WHITE},  {RED},  {GREEN}, {BLUE}, {YELLOW}, {PURPLE}, {CYAN},
+//               {ORANGE}, {PINK}, {OLIVE}, {LIME}, {VIOLET}, {LIGHTBLUE}
+//    - Example: {ORANGE} www.domain.com
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+	"1"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[{DEFAULT}Origins-cm{GREEN}] .: Bem-Vindo ao {LIGHTGREEN}Servidor de DeathMatch{GREEN} da Comunidade {DEFAULT}Origins'Master'Gaming!"
+	}
+	"2"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[{DEFAULT}Origins-cm{GREEN}] .: A Administracao pede {LIGHTGREEN}Respeito{GREEN} a {LIGHTGREEN}todos{GREEN} os jogadores e {LIGHTGREEN}Jogadoras{GREEN}!"
+	}
+	"4"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[{DEFAULT}Origins-cm{GREEN}] .: A Administracao pede {LIGHTGREEN}Fair-Play{GREEN} para com {LIGHTGREEN}Jogadores Estrangeiros{GREEN}!"
+	}
+	"5"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[{DEFAULT}Origins-cm{GREEN}] .: Podes reiniciar o teu score a {LIGHTGREEN}qualquer{GREEN} altura escrevendo: {DEFAULT}!omg {GREEN}no chat."
+	}
+	"6"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[{DEFAULT}Origins-cm{GREEN}] .: Horas: {DEFAULT}{TIME24}{GREEN}."
+	}
+	"8"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[{DEFAULT}Origins-cm{GREEN}] .: Website da Comunidade {LIGHTGREEN}Origins'Master'Gaming{GREEN}: {DEFAULT}http://origins.dotsi.pt/"
+	}
+	"9"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[{DEFAULT}Origins-cm{GREEN}] .: O uso de qualquer {LIGHTGREEN}Cheat{GREEN}, ou {LIGHTGREEN}Bug {GREEN}no servidor, sera {LIGHTGREEN}punido severamente{GREEN}!"
+	}
+	"10"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[{DEFAULT}Origins-cm{GREEN}] .: Convida os teus amigos para se juntarem ao servidor e sera diversao {LIGHTGREEN}a dobrar{GREEN}!"
+	}
+	"11"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[{DEFAULT}Origins-cm{GREEN}] .: Pedimos Bom senso e respeito no uso de [{DEFAULT}Voteban/Votekick{GREEN}]"
+	}
+	"12"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[{DEFAULT}Origins-cm{GREEN}] .: Visita o nosso canal no Youtube! {LIGHTGREEN}Link: {DEFAULT}http://www.youtube.com/user/comunidadeorigins"
+	}
+	"13"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[{DEFAULT}Origins-cm{GREEN}] .: Vagas para Administrador dos nossos Servidores: [{DEFAULT} 3{GREEN} {GREEN}]"
+	}
+	"15"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[{DEFAULT}Origins-cm{GREEN}] .: Temos uma nova plataforma online que permite a {LIGHTGREEN}qualquer jogador(a) {GREEN}ver a lista de bans no servidor e mais! {LIGHTGREEN}Visita: {DEFAULT}http://www.origins.dotsi.pt/sourcebans/"
+	}
+	"17"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[{DEFAULT}Origins-cm{GREEN}] .: Servidor {LIGHTGREEN}De_Portugal_Sotaos_2: {GREEN}IP: {DEFAULT}188.93.232.33:30136"
+	}
+	"18"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[{DEFAULT}Origins-cm{GREEN}] .: Rates do Servidor: {DEFAULT}rate 30000 {GREEN}/{DEFAULT} cl_cmdrate 66 {GREEN}/{DEFAULT} cl_updaterate 66"
+    }
+    "19"
+    {
+        "type"		"S"
+        "text"		"{GREEN}[{DEFAULT}Origins-cm{GREEN}] .: Queres ajudar a comunidade? porque nao fazeres um {LIGHTGREEN}donativo{GREEN}? {LIGHTGREEN}Ganhas VIP Especial e Moderador no forum{GREEN}!"
+    }
+	"22"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[{DEFAULT}Origins-cm{GREEN}] .: Queres fazer um donativo com o paypal? {LIGHTGREEN}Escreve: {DEFAULT}!donativo <montante> {GREEN}({LIGHTGREEN}Ex: {DEFAULT}!donativo 2{GREEN})"
+	}
+	"25"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[{DEFAULT}Origins-cm{GREEN}] .: Os Silenciadores sao agora automaticos nas armas que os suportem! Queres tirar? {LIGHTGREEN}Usa: {DEFAULT}!settings"
+	}
+	"26"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[{DEFAULT}Origins-cm{GREEN}] .: Queres Ser Administrador? Custa: {default}3 euros"
+	}
+	"27"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[{DEFAULT}Origins-cm{GREEN}] .: Temos um Servidor de {LIGHTGREEN}Mix/War Automatico(Nao precisa de Admins): {GREEN}IP: {DEFAULT}188.93.232.42:30235"
+	}
+}
