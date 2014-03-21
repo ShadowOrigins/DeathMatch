@@ -1,0 +1,40 @@
+"Phrases"
+{
+	"JoinMessage"
+	{
+		//Valid Color-Codes can you find there: https://www.doctormckay.com/morecolors.php
+		"#format"	"{1:s}"
+		"en"		"{darkviolet}[{gold}VIP{darkviolet}] {gold}VIP {1} {deepskyblue}joint the Server, be nice to him!"
+		"de"		"{darkviolet}[{gold}VIP{darkviolet}] {gold}VIP {1} {deepskyblue}tritt dem Server bei, seit nett zu ihm"
+	}
+	"VipDisabled"
+	{
+		"en"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} Vip is currentlie disabled!"
+		"de"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} Vip ist derzeit deaktiviert!"
+	}
+	"NotaVip"
+	{
+		"en"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} You are not a Vip!"
+		"de"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} Du bist kein Vip!"
+	}	
+	"FunctionDisabled"
+	{
+		"en"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} This Function is currentlie disabled!"
+		"de"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} Diese Funktion wurde derzeit deaktiviert!"
+	}	
+	"NoClantag"
+	{
+		"en"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} You don't have an Clan-tag anymore!"
+		"de"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} Du hast nun kein Clan-tag mehr!"
+	}
+	"ReservedSlotCheck"
+	{
+		"en"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} You used an Reserved Slot!"
+		"de"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} Du hast ein Reservierten Platz genommen!"
+	}
+	"ReservedSlotFree"
+	{
+		"en"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} You made room for a VIP!"
+		"de"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} Du hast Platz fur einen Vip gemacht!"
+	}
+}
