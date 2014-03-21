@@ -1,0 +1,132 @@
+"Phrases"
+{
+	// Mod Detection (Debug Messages)
+	"Insurgency"
+	{
+		"en"		"Detected Mod Insurgency"
+		"de"		"Mod Insurgency erkannt"
+		"fr"		"Mod Insurgency detecté"
+		"pl"		"Wykryto Mod Insurgency"
+		"hu"		"Insurgency játékmód észlelve"
+		"ru"		"Обнаружен мод Insurgency"
+		"es"		"Detectado Modo Insurgency"
+		"pt"		"Mod detectado Insurgency"
+		"tr"		"Insurgency Mod Tespit Edildi"
+	}
+
+	"Synergy"
+	{
+		"en"		"Detected Mod Synergy"
+		"de"		"Mod Synergy erkannt"
+		"fr"		"Mod Synergy detecté"
+		"pl"		"Wykryto Mod Synergy"
+		"hu"		"Synergy játékmód észlelve"
+		"ru"		"Обнаружен мод Synergy"
+		"es"		"Detectado Modo Synergy"
+		"pt"		"Mod detectado Synergy"
+		"tr"		"Synergy Mod Tespit Edildi"
+	}
+
+	"TF2"
+	{
+		"en"		"Detected Mod Team Fortress 2"
+		"de"		"Mod Team Fortress 2 erkannt"
+		"fr"		"Team Fortress 2 detecté"
+		"pl"		"Wykryto Mod Team Fortress 2"
+		"hu"		"Team Fortress 2 játékmód észlelve"
+		"ru"		"Обнаружен мод Team Fortress 2"
+		"es"		"Detectado Modo Team Fortress 2"
+		"pt"		"Mod detectado Team Fortress 2"
+		"tr"		"Team Fortress 2 Mod Tespit Edildi"
+	}
+
+	"CSTRIKE"
+	{
+		"en"		"Detected Mod Counter-Strike"
+		"de"		"Mod Counter-Strike erkannt"
+		"fr"		"Counter-Strike detecté"
+		"pl"		"Wykryto Mod Counter-Strike"
+		"hu"		"Counter-Strike játékmód észlelve"
+		"ru"		"Обнаружен мод Counter-Strike"
+		"es"		"Detectado Modo Counter-Strike"
+		"pt"		"Mod detectado Counter Strike Source"
+		"tr"		"Counter Strike Source Mod Tespit Edildi"
+	}
+
+	"L4D"
+	{
+		"en"		"Detected Mod Left 4 Dead"
+		"de"		"Mod Left 4 Dead erkannt"
+		"fr"		"Left 4 Dead detecté"
+		"pl"		"Wykryto Mod Left 4 Dead"
+		"hu"		"Left 4 Dead játékmód észlelve"
+		"ru"		"Обнаружен мод Left 4 Dead"
+		"es"		"Detectado Modo Left 4 Dead"
+		"pt"		"Mod detectado Left 4 Dead"
+		"tr"		"Left 4 Dead Mod Tespit Edildi"
+	}
+
+
+	// Debug Messages
+
+
+	// Plugin Messages
+	"Spectate_Force"
+	{
+		"#format"	"{1:t}"
+		"en"		"Jogador {green}{1} {default}foi forcado a ir para {lightgreen}espectador{default}."
+	}
+
+	"Spawn_Move_Warning"
+	{
+		"#format"	"{1:i}"
+		"en"		"{red}Aviso{default}: Se nao saires da base em {green}{1} {default}segundos, vais ser movido(a) para {lightgreen}espectador{default}."
+	}
+
+	"Move_Warning"
+	{
+		"#format"	"{1:i}"
+		"en"		"{red}Aviso{default}: Se nao te mexeres em {green}{1} {default}segundos, vais ser movido(a) para espectador."
+	}
+
+	"Spawn_Kick_Warning"
+	{
+		"#format"	"{1:i}"
+		"en"		"{red}Aviso{default}: Se nao te mexeres do Spawn em {green}{1} {default}segundos, vais ser kickado(a)."
+	}
+
+	"Kick_Warning"
+	{
+		"#format"	"{1:i}"
+		"en"		"{red}Aviso{default}: Se nao te mexeres dentro de {green}{1} {default}segundos, vais ser kickado(a)."
+	}
+
+	"Move_Announce"
+	{
+		"#format"	"{1:s}"
+		"en"		"{green}{1} {default}foi movido(a) para espectador por ficar AFK."
+	}
+
+	"Move_Log"
+	{
+		"#format"	"{1:L}"
+		"en"		"{green}{1} {default}foi movido(a) para espectador por ficar AFK."
+	}
+
+	"Kick_Announce"
+	{
+		"#format"	"{1:s}"
+		"en"		"{green}{1} {default}foi kickado(a) por ficar AFK demasiado tempo."
+	}
+
+	"Kick_Message"
+	{
+		"en"		"Foste kickado(a) por estares muito tempo AFK."
+	}
+
+	"Kick_Log"
+	{
+		"#format"	"{1:L}"
+		"en"		"{green}{1} {default}foi kickado(a) por ficar AFK demasiado tempo."
+	}
+}
