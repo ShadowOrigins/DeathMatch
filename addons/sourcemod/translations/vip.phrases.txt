@@ -4,27 +4,27 @@
 	{
 		//Valid Color-Codes can you find there: https://www.doctormckay.com/morecolors.php
 		"#format"	"{1:s}"
-		"en"		"{darkviolet}[{gold}VIP{darkviolet}] {gold}VIP {1} {deepskyblue}joint the Server, be nice to him!"
+		"en"		"{darkviolet}[{gold}VIP{darkviolet}] {gold}VIP {1} {deepskyblue}entrou no servidor, respeita-o!"
 		"de"		"{darkviolet}[{gold}VIP{darkviolet}] {gold}VIP {1} {deepskyblue}tritt dem Server bei, seit nett zu ihm"
 	}
 	"VipDisabled"
 	{
-		"en"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} Vip is currentlie disabled!"
+		"en"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} o VIP esta atualmente desactivado!"
 		"de"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} Vip ist derzeit deaktiviert!"
 	}
 	"NotaVip"
 	{
-		"en"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} You are not a Vip!"
+		"en"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} Nao es um VIP!"
 		"de"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} Du bist kein Vip!"
 	}	
 	"FunctionDisabled"
 	{
-		"en"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} This Function is currentlie disabled!"
+		"en"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} Esta vantagen esta atualmente desactivada!"
 		"de"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} Diese Funktion wurde derzeit deaktiviert!"
 	}	
 	"NoClantag"
 	{
-		"en"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} You don't have an Clan-tag anymore!"
+		"en"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} Nao tens mais uma Tag!"
 		"de"		"{darkviolet}[{gold}VIP{darkviolet}]{deepskyblue} Du hast nun kein Clan-tag mehr!"
 	}
 	"ReservedSlotCheck"
